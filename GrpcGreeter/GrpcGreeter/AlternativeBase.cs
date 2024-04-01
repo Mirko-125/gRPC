@@ -31,9 +31,9 @@ namespace GrpcGreeter
                     {
                         Base = new Dictionary<int, UserData>()
                         {
-                            { 125, new UserData("Mirko","Bojanic" ,"Unknown", 0631943075) },
-                            { 126, new UserData("Bogdan","Micic" ,"Unknown", 0631943084) },
-                            { 127, new UserData("Milos","Jovanovic" ,"Unknown", 0631943005) }
+                            { 125, new UserData("Mirko","Bojanic" ,"Unknown", 123456789) },
+                            { 126, new UserData("Bogdan","Micic" ,"Unknown", 123456789) },
+                            { 127, new UserData("Milos","Jovanovic" ,"Unknown", 123456789) }
                         };
                     }
                 }
