@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Academic material\\Distributed\\GrpcGreeterClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3C1A9E-8F3A-4C50-B76A-24DC3E238D15}|GrpcGreeterClient\\GrpcGreeterClient.csproj|d:\\academic material\\distributed\\grpcgreeterclient\\grpcgreeterclient\\grpcgreeterclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB3C1A9E-8F3A-4C50-B76A-24DC3E238D15}|GrpcGreeterClient\\GrpcGreeterClient.csproj|solutionrelative:grpcgreeterclient\\grpcgreeterclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3C1A9E-8F3A-4C50-B76A-24DC3E238D15}|GrpcGreeterClient\\GrpcGreeterClient.csproj|d:\\academic material\\distributed\\grpcgreeterclient\\grpcgreeterclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3C1A9E-8F3A-4C50-B76A-24DC3E238D15}|GrpcGreeterClient\\GrpcGreeterClient.csproj|solutionrelative:grpcgreeterclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrpcGreeterClient.csproj",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+              "RelativeDocumentMoniker": "GrpcGreeterClient\\GrpcGreeterClient.csproj",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+              "RelativeToolTip": "GrpcGreeterClient\\GrpcGreeterClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T20:22:40.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeterClient\\GrpcGreeterClient\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcGreeterClient\\Program.cs",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeterClient\\GrpcGreeterClient\\Program.cs",
+              "RelativeToolTip": "GrpcGreeterClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:15:39.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

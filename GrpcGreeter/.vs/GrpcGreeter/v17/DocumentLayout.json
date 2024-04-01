@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Academic material\\Distributed\\GrpcGreeter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|d:\\academic material\\distributed\\grpcgreeter\\grpcgreeter\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|d:\\academic material\\distributed\\grpcgreeter\\grpcgreeter\\alternativebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\alternativebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|d:\\academic material\\distributed\\grpcgreeter\\grpcgreeter\\protos\\users.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\protos\\users.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|d:\\academic material\\distributed\\grpcgreeter\\grpcgreeter\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|d:\\academic material\\distributed\\grpcgreeter\\grpcgreeter\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|d:\\academic material\\distributed\\grpcgreeter\\grpcgreeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|d:\\academic material\\distributed\\grpcgreeter\\grpcgreeter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|d:\\academic material\\distributed\\grpcgreeter\\grpcgreeter\\grpcgreeter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\grpcgreeter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|d:\\academic material\\distributed\\grpcgreeter\\grpcgreeter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{720C2E5A-7551-40C8-B143-EB769CA272AD}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\obj\\Debug\\net8.0\\GrpcGreeter.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GrpcGreeter\\obj\\Debug\\net8.0\\GrpcGreeter.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlternativeBase.cs",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\AlternativeBase.cs",
+              "RelativeDocumentMoniker": "GrpcGreeter\\AlternativeBase.cs",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\AlternativeBase.cs",
+              "RelativeToolTip": "GrpcGreeter\\AlternativeBase.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T12:43:12.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "GrpcGreeter\\Services\\UsersService.cs",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Services\\UsersService.cs",
+              "RelativeToolTip": "GrpcGreeter\\Services\\UsersService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:11:22.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "users.proto",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Protos\\users.proto",
+              "RelativeDocumentMoniker": "GrpcGreeter\\Protos\\users.proto",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Protos\\users.proto",
+              "RelativeToolTip": "GrpcGreeter\\Protos\\users.proto",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-03-29T20:47:47.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "greet.proto",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "GrpcGreeter\\Protos\\greet.proto",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Protos\\greet.proto",
+              "RelativeToolTip": "GrpcGreeter\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-03-29T20:47:52.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "GrpcGreeter\\Services\\GreeterService.cs",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Services\\GreeterService.cs",
+              "RelativeToolTip": "GrpcGreeter\\Services\\GreeterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T20:11:59.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcGreeter\\Program.cs",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Program.cs",
+              "RelativeToolTip": "GrpcGreeter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T20:11:52.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\appsettings.json",
+              "RelativeDocumentMoniker": "GrpcGreeter\\appsettings.json",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\appsettings.json",
+              "RelativeToolTip": "GrpcGreeter\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T20:25:58.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GrpcGreeter.csproj",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
+              "RelativeDocumentMoniker": "GrpcGreeter\\GrpcGreeter.csproj",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
+              "RelativeToolTip": "GrpcGreeter\\GrpcGreeter.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T21:06:09.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GrpcGreeter.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\obj\\Debug\\net8.0\\GrpcGreeter.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "GrpcGreeter\\obj\\Debug\\net8.0\\GrpcGreeter.AssemblyInfo.cs",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\obj\\Debug\\net8.0\\GrpcGreeter.AssemblyInfo.cs",
+              "RelativeToolTip": "GrpcGreeter\\obj\\Debug\\net8.0\\GrpcGreeter.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:09:51.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GrpcGreeter\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Academic material\\Distributed\\GrpcGreeter\\GrpcGreeter\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GrpcGreeter\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T21:06:07.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

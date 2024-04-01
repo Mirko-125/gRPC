@@ -1,0 +1,3 @@
+obj\Debug\net8.0\Protos/Users.cs \
+obj\Debug\net8.0\Protos/UsersGrpc.cs: C:/Users/Mirko/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/empty.proto\
+ Protos/users.proto

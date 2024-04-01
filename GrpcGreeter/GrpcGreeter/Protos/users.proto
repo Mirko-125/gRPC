@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "GrpcGreeter";
+
+package users;
+
+service Users {
+	rpc AddUser(User) returns (Message);
+	rpc AddUsers(stream User) returns (stream Message);
+
+	rpc RemoveUser(Id) returns (google.protobuf.Empty);
+	rpc RemoveUsers(stream Id) returns (google.protobuf.Empty); 
+
+	rpc GetUser(Id) returns (User);
+	rpc GetUsers(Id) returns (stream User);
+}
+
+message User {
+	int32 Id = 1;
+	string Name = 2;
+	string LastName = 3;
+	optional string Address = 4; 
+	repeated int32 CellphoneNumber = 5 [packed=true];
+}
+
+message Id {
+	int32 Id = 1;
+}
+
+message IdRange {
+	int32 Start=1;
+	int32 End=2;
+}
+
+message Message {
+	string Text = 1;
+}
